@@ -10,7 +10,8 @@
 Some useful links : 
 - [Link](https://github.com/chemousesi/INF280) to my competitive programming class repository.
 - [TopoGiraffe](https://github.com/chemousesi/TopoGiraffe) : A c# written software that helps, draw and make topography measures
-- Last Mistral AI hackathon at the Paris R.AI.SE Summit, Paris April 2024 [repo](https://github.com/chemousesi/Mistral_AI_Hackathon)
+- [Accessraod.data](https://github.com/chemousesi/Mistral_AI_Hackathon) my teams solution for the last Mistral AI hackathon at the Paris R.AI.SE Summit, Paris April 2024 
+- [Immo_ESI](https://github.com/chemousesi/ImmoESI_GUI_Version) Java written app for Real Estate management with GUI, Object-oriented architecture
 
 
 <!---
