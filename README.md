@@ -1,6 +1,6 @@
 - 👋 Hi, I’m chems
 - 👀 I’m interested in competitive programming, mathematics and AI.
-- 📑 I'm lately embarking on the field of data science and machine learning  
+- 📑 I'm lately highly interested in the field of data science and machine learning  
 - 🌱 I’m currently in an engineering school studying math and algorithms.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 to reach me, you can send an email to chems.benaziza@gmail.com
