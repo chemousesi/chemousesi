@@ -9,6 +9,7 @@
 
 Some useful links : 
 - **Kaggle Classification competition** Finetuned a pretrained model (Alexnet) and applied some advanced data augmentation to classify skin lesions into 8 classes. Rank 13/80, Accuracy 70% [Repo with the paper](https://github.com/chemousesi/ima205-skin-lesion-challenge-2025)
+- An implementation of MMDGAN a type of Generative Adversarial Network based on the maximum mean discerepency loss.[link](https://github.com/chemousesi/mmd-gans-implementation  )
 - **Research Project** [Waterpixels generation](https://github.com/chemousesi/Waterpixels-generation) Generating Superpixels from the watershed based on research [paper](https://minesparis-psl.hal.science/hal-01139797/file/2014.icip.machairas.al.waterpixels.pdf)
 - [Link](https://github.com/chemousesi/INF280) to my competitive programming class repository.
 - [TopoGiraffe](https://github.com/chemousesi/TopoGiraffe) : A c# written software that helps, draw and make topography measures
